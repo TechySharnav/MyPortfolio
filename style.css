@@ -1,0 +1,49 @@
+h1 {
+  color: #800000;
+}
+
+/* * {
+  border: solid blue;
+} */
+
+.header {
+  background-color: #F2ff00;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Links {
+  margin-top: auto;
+  justify-content: end;
+  font-size: 18px;
+  display: flex;
+}
+
+.Grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.gridItem p {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgb(113, 1, 187);
+  font-family: monospace;
+}
+
+h2 {
+  color: #E00030;
+  font-family: cursive;
+}
+
+.gameInfo {
+  font-size: 28px;
+  font-family: 'Unispace Bold';
+}
